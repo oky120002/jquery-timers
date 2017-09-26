@@ -1,6 +1,6 @@
 {
   "name": "jquery-timers",
-  "version": "1.0",
+  "version": "1.1",
   "title": "jquery-timers.js | query timers plugin",
   "description": "query timers plugin.",
   "homepage": "https://github.com/oky120002/jquery-timers",
@@ -11,7 +11,7 @@
   },
   "main": "jquery-timers.min.js",
   "dependencies": {
-    "jquery": ">=1.8"
+    "jquery": ">=1.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,5 +21,5 @@
     "jquery",
     "timers"
   ],
-  "license": "MIT"
+  "license": "WTFPL"
 }
