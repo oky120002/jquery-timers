@@ -1,0 +1,20 @@
+{
+  "name": "jquery-timers",
+  "version": "0.1",
+  "homepage": "https://github.com/oky120002/jquery-timers",
+  "authors": [
+    "He Yu<heyu.520@qq.com>"
+  ],
+  "description": "jquery timers plugin",
+  "main": [
+    "jquery.timers.js"
+  ],
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "timers"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6"
+  }
+}
