@@ -1,25 +1,29 @@
 {
-  "name": "jquery-timers",
-  "version": "1.2",
-  "title": "jquery-timers.js | query timers plugin",
-  "description": "query timers plugin.",
-  "homepage": "https://github.com/oky120002/jquery-timers",
-  "author": "Rain (https://github.com/oky120002/)",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/oky120002/jquery-timers.git"
-  },
-  "main": "jquery-timers.min.js",
-  "dependencies": {
-    "jquery": ">=1.6"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "jquery-plugin",
-    "jquery",
-    "timers"
-  ],
-  "license": "WTFPL" 
+	"name": "jquery-timers",
+	"version": "1.2",
+	"title": "jquery-timers.js | query timers plugin",
+	"description": "query timers plugin.",
+	"homepage": "https://github.com/oky120002/jquery-timers",
+	"author": "Rain (https://github.com/oky120002/)",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/oky120002/jquery-timers.git"
+	},
+	"main": "jquery-timers.min.js",
+	"dependencies": {
+		"jquery": ">=1.6"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"jquery-plugin",
+		"jquery",
+		"timers"
+	],
+	"licenses": [
+		{
+			"type": "WTFPL"
+		}
+	]
 }

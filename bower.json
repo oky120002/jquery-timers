@@ -1,24 +1,29 @@
 {
-  "name": "jquery-timers",
-  "version": "1.2",
-  "homepage": "https://github.com/oky120002/jquery-timers",
-  "authors": [
-    "He Yu<heyu.520@qq.com>"
-  ],
-  "description": "jquery timers plugin",
-  "main": [
-    "jquery-timers.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/oky120002/jquery-timers.git"
-  },
-  "keywords": [
-    "jquery-plugin",
-    "jquery",
-    "timers"
-  ],
-  "dependencies": {
-    "jquery": ">=1.6"
-  }
+	"name": "jquery-timers",
+	"version": "1.2",
+	"homepage": "https://github.com/oky120002/jquery-timers",
+	"authors": [
+		"He Yu<heyu.520@qq.com>"
+	],
+	"description": "jquery timers plugin",
+	"main": [
+		"jquery-timers.js"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/oky120002/jquery-timers.git"
+	},
+	"keywords": [
+		"jquery-plugin",
+		"jquery",
+		"timers"
+	],
+	"dependencies": {
+		"jquery": ">=1.6"
+	},
+	"licenses": [
+		{
+			"type": "WTFPL"
+		}
+	]
 }
